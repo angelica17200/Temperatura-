@@ -19,3 +19,5 @@ print("\nResultado\n")
 print( str (c) + " grados celcius es igual a: " + str (f) + " grados farenheit")
 print( str (c) + " grados celcius es igual a: " + str (k) + " grados kelvin ")
 
+
+
